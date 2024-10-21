@@ -1,8 +1,5 @@
 -- schema.sql
 
--- SQLite does not support CREATE DATABASE or USE statements
--- Just connect to the SQLite database file directly when running
-
 -- Create the tasks table
 CREATE TABLE IF NOT EXISTS tasks (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
