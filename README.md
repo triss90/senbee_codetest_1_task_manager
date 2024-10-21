@@ -20,7 +20,7 @@ Create a simple Task Manager web application using PHP for the backend, with HTM
 
 ## Getting Started
 1. Clone this repository.
-2. Set up your local environment and import the `db/schema.sql` file or use the provided sqlite database.
+2. Set up your local environment and import the `db/schema.sql` file, or use the provided sqlite database in `db/task_manager.db`.
 3. Build the application according to the requirements.
 
 ## Bonus Points
