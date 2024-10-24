@@ -30,3 +30,5 @@ Create a simple Task Manager web application using PHP for the backend, with HTM
 
 ## Submission
 - Push your code to a GitHub repository and share the link.
+
+**Time Estimate:** 4-6 hours (Candidates can spend more or less time as they see fit, but we’re more interested in quality over quantity).
